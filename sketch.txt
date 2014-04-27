@@ -1,1 +1,5 @@
-In this file,we will put our some words here. 
+man:In this file,we will put our some words here.
+Hello
+woman:This is second line
+man:This is third line
+woman:This is 4 line
